@@ -1,4 +1,5 @@
 # <p align=center> Evaluating the Claim that Rising Ocean Temperatures Are Responsible for Rising Atmospheric Temperatures </p>
+## <p align=center> By: Kristen Arnold </p>
 
 <p align=justify> The author claims that ocean temperatures are rising, which is in turn causing atmospheric temperatures to rise–not the other way around (Rotter, 2021). The article refers to evidence that sea surface temperatures have been rising since early 1900, long before carbon emissions would have had an effect on our ocean temperatures and climate. The main reasoning provided is that the heat capacity of our oceans is much greater than that of our air, which would mean that it is the ocean driving climate rather than the atmosphere. This article is of particular interest to me because one of my greatest climate change-related concerns is the detrimental effects of warming ocean temperatures on oceanic ecosystems, food webs, and biodiversity. Understanding the root cause of ocean warming is critical to addressing the problem. </p>
 
